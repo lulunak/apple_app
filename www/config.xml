@@ -12,7 +12,7 @@
         Hello World sample application that responds to the deviceready event.
     </description>
 
-    <author href="http://lulukang.ca" email="natasha.sidi@gmail.com">
+    <author href="http://lulukang.ca" email="cecaakang423@gmail.com">
         this is my hood
     </author>
 
@@ -71,7 +71,8 @@
     -->
 
     <!-- Define app icon for each platform. -->
-    <icon src="res/icon/ios/icon-60@3x.png"         gap:platform="ios"        width="57" height="57"/>
+    <icon src="res/icon/ios/icon-60@3x.png"         gap:platform="ios"        width="120" height="120"/>
+    <icon src="res/icon/ios/icon-60@2x.png"         gap:platform="ios"        width="180" height="180"/>
     <icon src="res/icon/android/icon-36-ldpi.png"   gap:platform="android"    gap:qualifier="ldpi" />
     <icon src="res/icon/android/icon-48-mdpi.png"   gap:platform="android"    gap:qualifier="mdpi" />
     <icon src="res/icon/android/icon-72-hdpi.png"   gap:platform="android"    gap:qualifier="hdpi" />
